@@ -1,4 +1,8 @@
+# EXPERIMENT: 08
 # Algorithm for QR Decomposition
+#### NAME: AVINASH T
+#### REG NO: 212223230026
+#### DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
@@ -19,9 +23,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 4.	Construct the upper triangular matrix R
     ![eqn5](./ex2.jpg)
 
-
-
 ## Program:
+
 ### Gram-Schmidt Method
 ```
 
